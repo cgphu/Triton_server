@@ -2,15 +2,10 @@
 
 ## Directory Structure
 Client/
-
     images/
-
     predict/
-
     client.py
-    
     Dockerfile
-  
     requirement.txt
 
 Server/
