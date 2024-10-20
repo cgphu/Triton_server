@@ -9,7 +9,6 @@ Client/
     requirement.txt
 
 Server/
-
     models/
 
       preprocessing_model/
