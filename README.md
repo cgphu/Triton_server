@@ -18,8 +18,8 @@ Server/
         yolo_onnx/
             1/
                 model.onnx
-            config.pbtxt
-            labels.txt
+                config.pbtxt
+                labels.txt
 
         ensemble_model/
             1/
