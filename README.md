@@ -1,7 +1,7 @@
 # SIMPLE TRITON SERVER WITH ENSEMBLE MODEL
 
 ## Directory Structure
-Client/
+Client
 
     images/
     predict/
@@ -9,7 +9,7 @@ Client/
     Dockerfile
     requirement.txt
 
-Server/
+Server
 
     models/
 
