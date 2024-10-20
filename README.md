@@ -2,27 +2,27 @@
 
 ## Directory Structure
 Client/
-  images/
-  predict/
-  client.py
-  Dockerfile
-  requirement.txt
+  - images/
+  - predict/
+  - client.py
+  - Dockerfile
+  - requirement.txt
 Server/
-  models/
-      preprocessing_model/
-          1/
-              model.py
-          config.pbtxt
-      yolo_onnx/
-          1/
-              model.onnx
-          config.pbtxt
-          labels.txt     
-      ensemble_model/
-          1/
-              <Empty Directory>
-          config.pbtxt
-  Dockerfile
+  - models/
+      - preprocessing_model/
+          - 1/
+              - model.py
+          - config.pbtxt
+      - yolo_onnx/
+          - 1/
+              - model.onnx
+          - config.pbtxt
+          - labels.txt     
+      - ensemble_model/
+          - 1/
+              - <Empty Directory>
+          - config.pbtxt
+  - Dockerfile
 README.md
 
 ## Installation
