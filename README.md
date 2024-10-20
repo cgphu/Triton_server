@@ -2,6 +2,7 @@
 
 ## Directory Structure
 Client/
+
     images/
     predict/
     client.py
@@ -9,6 +10,7 @@ Client/
     requirement.txt
 
 Server/
+
     models/
 
       preprocessing_model/
