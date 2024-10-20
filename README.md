@@ -3,13 +3,14 @@
 ## Directory Structure
 Client/
   images/
+
   predict/
+
   client.py
   Dockerfile
   requirement.txt
 
 Server/
-  
   models/
 
       preprocessing_model/
