@@ -1,0 +1,6 @@
+PMS
+defib
+syringepump
+ultrasound
+ventilator
+xray
