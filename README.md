@@ -2,16 +2,20 @@
 
 ## Directory Structure
 Client/
-  images/
 
-  predict/
+    images/
 
-  client.py
-  Dockerfile
-  requirement.txt
+    predict/
+
+    client.py
+    
+    Dockerfile
+  
+    requirement.txt
 
 Server/
-  models/
+
+    models/
 
       preprocessing_model/
           1/
@@ -29,7 +33,7 @@ Server/
               <Empty Directory>
           config.pbtxt
 
-  Dockerfile
+    Dockerfile
 
 README.md
 
